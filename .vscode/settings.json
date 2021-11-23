@@ -1,0 +1,5 @@
+{
+  "python.defaultInterpreterPath": "./server/env/bin/python",
+  "python.linting.mypyEnabled": true,
+  "python.linting.mypyPath": "./server/env/bin/mypy"
+}
